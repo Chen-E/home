@@ -1,0 +1,20 @@
+h1
+{
+	font-family: "Comic Sans MS", Arial, sans-serif;
+	text-align: center;
+	color: fuchsia;
+}
+h2
+{
+	text-align: center
+}
+body
+{
+	font-family: "Comic Sans MS", Arial, sans-serif;
+	text-align: Justify;
+}
+
+a:link, a:visited
+{
+	color: blue;
+}
