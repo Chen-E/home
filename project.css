@@ -6,7 +6,12 @@ h1
 }
 h2
 {
-	text-align: center
+	font-size: 18pt;
+	text-align: center;
+}
+h3
+{
+	font-size: 18pt;
 }
 body
 {
