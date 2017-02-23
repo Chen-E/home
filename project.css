@@ -18,6 +18,11 @@ body
 	font-family: "Comic Sans MS", Arial, sans-serif;
 	text-align: Justify;
 }
+p
+{
+	margin-left: 50;
+	margin-right: 1200px;
+}
 
 a:link, a:visited
 {
