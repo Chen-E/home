@@ -32,14 +32,8 @@ a:link, a:visited
 {
 	color: blue;
 }
-/* eye candy */
-#table_of_contents
-{
-	border: 90px solid black;
-}
 .memes
 {
-	position: absolute;
 	text-align: right;
 }
 	
