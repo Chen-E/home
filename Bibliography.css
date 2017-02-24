@@ -1,8 +1,9 @@
 h1
+/* doesnt show an abnormal look space between the two headings */
 {
 	line-height: 10pt;
 }
-
+/* I want this heading to be smaller than the one on the main page */
 h2
 {
 	font-size: 10pt;

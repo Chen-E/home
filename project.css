@@ -11,20 +11,35 @@ h2
 }
 h3
 {
+	color: red;
 	font-size: 18pt;
 }
+/*green doesnt hurt eyes as much as standard green, text also more readable */
 body
 {
 	font-family: "Comic Sans MS", Arial, sans-serif;
 	text-align: Justify;
+	background-color: RGB(5, 175, 25);
 }
+/*text looks neater this way */
 p
 {
-	margin-left: 50;
+	margin-left: 50px;
 	margin-right: 1200px;
 }
-
+/* I dont link the look of clicked links */
 a:link, a:visited
 {
 	color: blue;
 }
+/* eye candy */
+#table_of_contents
+{
+	border: 90px solid black;
+}
+}
+.memes
+{
+	position: absolute
+}
+	
